@@ -1,0 +1,5 @@
+*.env
+kredensial*.txt
+password.txt
+.vscode/
+*.log
